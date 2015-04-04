@@ -70,7 +70,7 @@ public class RealEstate extends javax.swing.JFrame{
 		Display display = Display.getDefault();
 		Shell shell = new Shell();
 		shell.setMinimumSize(new Point(447, 533));
-		shell.setImage(SWTResourceManager.getImage("C:\\Users\\user\\workspace\\RealStateProgramme\\icon\\RealEstate.ico"));
+		shell.setImage(SWTResourceManager.getImage("C:\\Users\\user\\git\\Real State Programme\\Real State Programme\\icon\\RealEstate.ico"));
 		shell.setBackground(SWTResourceManager.getColor(SWT.COLOR_GRAY));
 		shell.setSize(432, 533);
 		this.setMaximumSize(new Dimension(447 , 533));
